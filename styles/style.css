@@ -21,6 +21,7 @@ body {
   color: hsl(150, 100%, 66%);
   letter-spacing: 4px;
   font-size: 12px;
+  text-transform: uppercase;
 }
 #advice-container .advice-text {
   color: hsl(193, 38%, 86%);
